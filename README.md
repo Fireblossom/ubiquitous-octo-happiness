@@ -1,4 +1,4 @@
-# Recognition Logic (RL) Classification: Analyzing "Local Person" Identity in Chinese Social Media
+# Us vs Them: Analyzing "Local Person" Identity in Chinese Social Media
 
 A research project analyzing social media texts to understand "local person" identity definition standards using large language models and the Recognition Logic (RL) framework.
 
