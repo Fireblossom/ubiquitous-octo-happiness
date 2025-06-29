@@ -1,0 +1,10 @@
+Model,Total Samples,Error Count,Error Rate (%),Spurious (%),Missed (%),Both (%)
+Qwen3-32B (Few-shot),485,232,47.84,65.1,34.9,0.0
+Qwen3-32B (Zero-shot),485,339,69.90,3.2,96.8,0.0
+Qwen3-32B (No CoT),485,345,71.13,0.0,100.0,0.0
+Gemma-3-27B (Few-shot),485,247,50.93,67.6,32.4,0.0
+Gemma-3-27B (Zero-shot),485,305,62.89,40.3,59.7,0.0
+Gemma-3-27B (No CoT),485,350,72.16,2.0,98.0,0.0
+Qwen3-235B-A22B (Few-shot),485,245,50.52,71.0,29.0,0.0
+Qwen3-235B-A22B (Zero-shot),485,344,70.93,3.5,96.5,0.0
+Qwen3-235B-A22B (No CoT),485,344,70.93,0.0,100.0,0.0
